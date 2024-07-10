@@ -10,6 +10,6 @@ public class WelcomeController {
     
     @GetMapping
     public String welcome(){
-        return "Welcome SpringBoot Restful API  ";
+        return "Welcome SpringBoot Restful API";
     }
 }
