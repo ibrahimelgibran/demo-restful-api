@@ -1,0 +1,12 @@
+# Ignore target directory and built JAR files
+target/
+*.jar
+
+# Ignore local configuration files
+application.properties
+application.yml
+
+# Ignore development and IDE specific files
+.git/
+.idea/
+*.log
